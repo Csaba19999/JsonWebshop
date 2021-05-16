@@ -44,8 +44,7 @@ $(document).ready(function () {
 
     });
     $("#torles1").click(function () {
-        var myobj = document.getElementById("demo");
-        myobj.remove();
+        
     });
 
 
