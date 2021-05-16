@@ -1,6 +1,6 @@
 main{
     margin: auto;
-    max-width: 900px;
+    width: 900px;
     background-color: plum;
 }
 header{
@@ -49,4 +49,7 @@ table{
     padding-top: 10px;
     display: grid;
     justify-content: center;
+}
+footer{
+    text-align: center;
 }
